@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<!-- IS APP VARIABLE -->
+<script type="text/javascript">
+	var appmode = false;
+	</script>
+	<link rel="icon" type="image/png" href="/uploads/38221/images/121165246_125364565993404_8582423054723080481_n.jpg">
+<!-- OG IMAGE META TAGS -->
+<meta property="og:image" content="http://mustafahodzic.mojsajt.rs/uploads/38221/images/324105795_850377156255988_8730977753749847481_n.jpg?w=400&r=4x3" />
+<meta property="og:image:width" content="400" />
+<meta property="og:image:height" content="300" />
+<meta property="og:image" content="http://mustafahodzic.mojsajt.rs/uploads/38221/images/324105795_850377156255988_8730977753749847481_n.jpg?w=400&r=4x3" />
+<meta property="og:image:width" content="400" />
+<meta property="og:image:height" content="300" />
+<meta property="og:image" content="http://mustafahodzic.mojsajt.rs/uploads/38221/images/121165246_125364565993404_8582423054723080481_n.jpg?w=400&r=4x3" />
+<meta property="og:image:width" content="400" />
+<meta property="og:image:height" content="300" />
+<meta property="og:image" content="http://mustafahodzic.mojsajt.rs/uploads/complus/images/wellness.jpg?w=400&r=4x3" />
+<meta property="og:image:width" content="400" />
+<meta property="og:image:height" content="300" />
+<meta property="og:image" content="http://mustafahodzic.mojsajt.rs/uploads/38221/images/121198923_125349909328203_5924294309279086064_n.jpg?w=400&r=4x3" />
+<meta property="og:image:width" content="400" />
+<meta property="og:image:height" content="300" />
+<meta property="og:image" content="http://mustafahodzic.mojsajt.rs/uploads/38221/images/121231196_125359112660616_6877329481983198149_n.jpg?w=400&r=4x3" />
+<meta property="og:image:width" content="400" />
+<meta property="og:image:height" content="300" />
+<meta property="og:image" content="http://mustafahodzic.mojsajt.rs/uploads/complus/images/485.jpg?w=400&r=4x3" />
+<meta property="og:image:width" content="400" />
+<meta property="og:image:height" content="300" />
+<!-- END OG IMAGE META TAGS -->
+
+	<meta charset="utf-8" />
+			<meta name="google-site-verification" content="54CgA-9V3FwQrszLoVfR8K2A0Y0hjkDRk_Db4CTUFiE" />
+		<title>Početna</title>
+	<meta property="og:title" content="Početna"/>
+	<link type="text/css" rel="stylesheet" href="https://mustafahodzic.mojsajt.rs/themes/shared/css/bootstrap-image-gallery.css" />
+	<link type="text/css" rel="stylesheet" href="https://mustafahodzic.mojsajt.rs/themes/shared/css/bootstrap.css" />
+	<link type="text/css" rel="stylesheet" href="https://mustafahodzic.mojsajt.rs/css.php?path=/themes/shared/css/global.css" />
+	<link type="text/css" rel="stylesheet" href="https://mustafahodzic.mojsajt.rs/css.php?idpage=285409&idsite=38221&path=/themes/welness/css/style.css&t=1700972989" />
+			    <!--[if lte IE 8]>
+        <script src="https://mustafahodzic.mojsajt.rs/themes/shared/js/html5.js" type="text/javascript"></script>
+    <![endif]-->
+	
+	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+	<script src="https://mustafahodzic.mojsajt.rs/themes/shared/js/jquery.js"></script>
+	<script src="https://mustafahodzic.mojsajt.rs/themes/shared/js/jquery.validate.js"></script>
+	<script src="https://mustafahodzic.mojsajt.rs/themes/shared/js/form_validation.js"></script>
+	<script src="https://mustafahodzic.mojsajt.rs/themes/shared/js/bootstrap.js"></script>
+	<script src="https://mustafahodzic.mojsajt.rs/themes/shared/js/load-image.min.js"></script>
+	<script src="https://mustafahodzic.mojsajt.rs/themes/shared/js/platform.min.js"></script>
+	<script src="https://mustafahodzic.mojsajt.rs/themes/shared/js/jquery-geolocation.min.js"></script>
+	<script src="https://mustafahodzic.mojsajt.rs/themes/shared/js/placeholderIESupport.js" ></script>
+	<script src="https://mustafahodzic.mojsajt.rs/themes/shared/js/yt-ratio.js" ></script>
+	<script src="https://mustafahodzic.mojsajt.rs/themes/shared/js/allScript.js" ></script>
+				<script src="https://mustafahodzic.mojsajt.rs/themes/welness/js/script.js" ></script>
+	<link rel="canonical" href="http://mustafahodzic.mojsajt.rs/home" />
+	<script type="text/javascript" src="https://mustafahodzic.mojsajt.rs/themes/shared/js/jquery-ui.min.js"></script>
+	<script src="https://mustafahodzic.mojsajt.rs/themes/shared/js/notApp.js" ></script>
+</head>
+<body  class="home">
+		<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+		fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+
+	if(!jQuery.browser.mobile) {
+		var sc = document.createElement('script');
+		sc.src = 'https://mustafahodzic.mojsajt.rs/themes/shared/js/bootstrap-image-gallery.js';
+		sc.type = 'text/javascript'; 
+		document.getElementsByTagName('head')[0].appendChild(sc);
+	}
+	</script><div class="line"></div><div id="wrapper">
+    <header id="header" class="clearfix">
+	<div id="logo" class="logo">
+    <h1>
+		<a href="http://mustafahodzic.mojsajt.rs/home/.." title="HODZA MUSTAFA">
+			<img data-section="Logo" data-drag src="/uploads/38221/images/324105795_850377156255988_8730977753749847481_n.jpg" alt="HODZA MUSTAFA" />
+		</a>
+    </h1>
+</div>
+
+	<!-- MENU -->
+<nav id="navigation" class="clearfix navigation" data-section="Menu">
+	<a href='#' class="lowResHref" id='lowResMenu'>
+		<div class="menu-burger">
+			<div class="menu-line"></div>
+			<div class="menu-line"></div>
+			<div class="menu-line"></div>
+		</div>
+		    </a>
+	<ul id="nav" class="nav nav-pills">
+                    <li class=" menuItem2 active">
+            	                <a href="http://mustafahodzic.mojsajt.rs/" class="activeLink">Početna</a>
+                            </li>
+                    <li class=" menuItem3">
+            	                <a href="http://mustafahodzic.mojsajt.rs/onama" >O nama</a>
+                            </li>
+                    <li class=" menuItem4">
+            	                <a href="http://mustafahodzic.mojsajt.rs/galerija" >Galerija</a>
+                            </li>
+                    <li class=" menuItem5">
+            	                <a href="http://mustafahodzic.mojsajt.rs/cenovnik" >Cenovnik</a>
+                            </li>
+                    <li class=" menuItem6">
+            	                <a href="http://mustafahodzic.mojsajt.rs/kontakt" >Kontakt</a>
+                            </li>
+        	</ul>
+</nav>
+<!-- END NAVIGATION -->
+<script type="text/javascript">
+	$('.dropdown-toggle').dropdown();
+</script>
+	</header>
+<div class="pageContainer clearfix" id="pageContainer">
+    		<section id="zone_0" data-id="285409.0.3758339" class="main-cnt clearfix" data-section="Slider">
+			<!-- SLIDER -->
+<div class="SliderGrid">
+<div id="myCarousel0" class="carousel slide">
+		<div class="carousel-inner">
+			<div class=" active  slider3 item" data-id="3758391" data-ratio="16x9">
+		<img src="/uploads/38221/images/324105795_850377156255988_8730977753749847481_n.jpg?r=16x9&w=1280" alt="HODZA MUSTAFA" />
+			<div class="carousel-caption">
+				<h4>HODZA MUSTAFA</h4>
+						<p>POSEDUJEM DAR I MOĆ RADA I OTKLANJANJA CRNE MAGIJE I UROKA GDE NIJE POTREBAN FIZIČKI KONTAKT! SPECIJALIZIRAO SAM SE NA RAD NA DALJINU I VEĆ PREKO 25 GODINA POMAŽEM LJUDIMA I IMAM ODLIČNE REZULTATE I ZAHVALNE LJUDE. PODACI I SVE ŠTO MI DOSTAVITE OSTAJU ANONIMNI, JER MEĐU KLIJENTIMA IMAM I JAKO PUNO LJUDI IZ POLITIKE, SPORTA, ESTRADE I JAVNOG ŽIVOTA…</p>
+			</div>
+	</div>
+		<div class=" slider3 item" data-id="3758385" data-ratio="16x9">
+		<img src="/uploads/38221/images/121165246_125364565993404_8582423054723080481_n.jpg?r=16x9&w=1280" alt="HODZA MUSTAFA" />
+			<div class="carousel-caption">
+				<h4>HODZA MUSTAFA</h4>
+						<p>Preko slike otključavamo vašu sreću, vraćamo voljenu osobu, spajamo rastavljene, skidamo crnu magiju, uroke, kletvu u najkraćem mogućem roku,
+Rešavamo sve vaše ljubavne probleme, spajamo rastavljene, usamljenim dušama otvaramo vrata ljubavi, vraćamo blagostanje, mir i novac u kuću, spašavamo brakove i porodice, štitimo od uroka, nesreća i nagaza.
+Zaključavamo vaše drage osobe da ne pomisle na druge, pravimo zaštitne amajlije protiv zlih ljudi koje žele da Vam naude</p>
+			</div>
+	</div>
+				</div>
+		<a class="carousel-control left"  href="#myCarousel0"  data-slide="prev">&lsaquo;</a>
+		<a class="carousel-control right"  href="#myCarousel0"  data-slide="next">&rsaquo;</a>
+		
+	</div>
+</div>
+<!-- SLIDER -->
+<script type="text/javascript">
+	$('#myCarousel0').carousel({
+		interval: 5000	});
+	if($('#myCarousel0 .item').length === 1) {
+		$('#myCarousel0').find('.carousel-control').hide();
+	}
+</script>
+
+            
+		</section>
+    		<section id="zone_1" data-id="285409.1.3758341" class="main-cnt clearfix" data-section="GalleryGrid">
+			
+<div class="GalleryGrid">
+	<div class="zone_GalleryGrid">
+        <h4 class="zone_title" data-cpart="Title">HODZA MUSTAFA</h4> 
+        <div class="zone_highlight" data-cpart="Highlight">&nbsp;Vec dugi niz godina vas HODZA MUSTAFA je sa vama . Uz pomoc svetog Kurana i moci koju mu je podario dragi Allah , HODZA MUSTAFA moze pomoci oko svakog vaseg problema , bilo da je u pitanju crna magija , sihir ,vracanje voljene osobe poroci,uroci,nagazi ,za svaki vas problem Allah i kuran imaju lek&nbsp;&nbsp;</div>    
+        <div class="zone_text" data-cpart="Text">AKO MISLITE DA&nbsp; VAM POMOCI NEMA U VASEM PROBLEMU I DA STE SVE PROBALI DA GA RESITE ALI NISTE USPELI POZOVITE DA ZAJEDNO RESIMO SVE NA VIBER ILI WACHAPP +381621500652</div>  
+	</div>
+    <ul data-sort class="gallery_list clearfix" id="gallery" data-toggle="modal-gallery" data-target="#modal-gallery">
+		<li class="gallery_box gb5 boxes-styles clearfix" data-section="GalleryItem"  data-id="3758353" data-idref="2303123" data-iorder="2">
+	<div class="clearfix">
+		<div class="photo">
+						<a class="imgLink" href="/uploads/complus/images/wellness.jpg" title="wellness.jpg" rel="gallery">
+					<img src="/uploads/complus/images/wellness.jpg?r=1x1&w=300" alt="wellness.jpg" />
+				</a>
+					</div>
+	</div>
+</li><li class="gallery_box gb5 boxes-styles clearfix" data-section="GalleryItem"  data-id="3758353" data-idref="2303127" data-iorder="3">
+	<div class="clearfix">
+		<div class="photo">
+						<a class="imgLink" href="/uploads/complus/images/wellness.jpg" title="wellness.jpg" rel="gallery">
+					<img src="/uploads/complus/images/wellness.jpg?r=1x1&w=300" alt="wellness.jpg" />
+				</a>
+					</div>
+	</div>
+</li><li class="gallery_box gb5 boxes-styles clearfix" data-section="GalleryItem"  data-id="3758353" data-idref="2303133" data-iorder="4">
+	<div class="clearfix">
+		<div class="photo">
+						<a class="imgLink" href="/uploads/complus/images/wellness.jpg" title="wellness.jpg" rel="gallery">
+					<img src="/uploads/complus/images/wellness.jpg?r=1x1&w=300" alt="wellness.jpg" />
+				</a>
+					</div>
+	</div>
+</li><li class="gallery_box gb5 boxes-styles clearfix" data-section="GalleryItem"  data-id="3758353" data-idref="2303137" data-iorder="5">
+	<div class="clearfix">
+		<div class="photo">
+						<a class="imgLink" href="/uploads/complus/images/wellness.jpg" title="wellness.jpg" rel="gallery">
+					<img src="/uploads/complus/images/wellness.jpg?r=1x1&w=300" alt="wellness.jpg" />
+				</a>
+					</div>
+	</div>
+</li><li class="gallery_box gb5 boxes-styles clearfix" data-section="GalleryItem"  data-id="3758353" data-idref="2303139" data-iorder="6">
+	<div class="clearfix">
+		<div class="photo">
+						<a class="imgLink" href="/uploads/complus/images/wellness.jpg" title="wellness.jpg" rel="gallery">
+					<img src="/uploads/complus/images/wellness.jpg?r=1x1&w=300" alt="wellness.jpg" />
+				</a>
+					</div>
+	</div>
+</li><li class="gallery_box gb5 boxes-styles clearfix" data-section="GalleryItem"  data-id="3758353" data-idref="2303141" data-iorder="7">
+	<div class="clearfix">
+		<div class="photo">
+						<a class="imgLink" href="/uploads/complus/images/wellness.jpg" title="wellness.jpg" rel="gallery">
+					<img src="/uploads/complus/images/wellness.jpg?r=1x1&w=300" alt="wellness.jpg" />
+				</a>
+					</div>
+	</div>
+</li><li class="gallery_box gb5 boxes-styles clearfix" data-section="GalleryItem"  data-id="3758353" data-idref="2303143" data-iorder="8">
+	<div class="clearfix">
+		<div class="photo">
+						<a class="imgLink" href="/uploads/complus/images/wellness.jpg" title="wellness.jpg" rel="gallery">
+					<img src="/uploads/complus/images/wellness.jpg?r=1x1&w=300" alt="wellness.jpg" />
+				</a>
+					</div>
+	</div>
+</li><li class="gallery_box gb5 boxes-styles clearfix" data-section="GalleryItem"  data-id="3758353" data-idref="2303145" data-iorder="9">
+	<div class="clearfix">
+		<div class="photo">
+						<a class="imgLink" href="/uploads/complus/images/wellness.jpg" title="wellness.jpg" rel="gallery">
+					<img src="/uploads/complus/images/wellness.jpg?r=1x1&w=300" alt="wellness.jpg" />
+				</a>
+					</div>
+	</div>
+</li>	</ul>
+	       
+
+    <!-- BOX FOR GALLERY PREVIEW -->
+    <div id="modal-gallery" class="modal modal-gallery hide fade">
+        <div class="modal-header">
+            <a class="close" data-dismiss="modal">&times;</a>
+            <h3 class="modal-title"></h3>
+        </div>
+        <div class="modal-body"><div class="modal-image"></div></div>
+        <div class="modal-footer">
+            <a class="btn btn-primary modal-next">Sledeća <i class="icon-arrow-right icon-white"></i></a>
+            <a class="btn btn-info modal-prev"><i class="icon-arrow-left icon-white"></i> Prethodna</a>
+            <a class="btn btn-success modal-play modal-slideshow" data-slideshow="5000"><i class="icon-play icon-white"></i> Slide</a>
+            <a class="btn modal-download" target="_blank"><i class="icon-download icon-white"></i> Preuzmi</a>
+        </div>
+    </div>
+</div>
+
+
+
+
+		</section>
+    		<section id="zone_2" data-id="285409.2.3758343" class="main-cnt clearfix" data-section="ContentBoxContainer">
+			
+<div class="ContentBoxContainer">
+	<div class="zone_ContentBoxContainer">
+        <h4 class="zone_title" data-cpart="Title">PROCITAJTE NESTO VISE</h4>
+        <div class="zone_highlight" data-cpart="Highlight">+381621500652</div>
+		<div data-cpart="Text" class="zone_text">POZOVITE I UVERITE SE SAMI DA RESENJE VASIH PROBLEMA POSTOJI VIBER ILI WHACAPP</div>
+	</div>
+    <div data-sort class="clearfix">
+		    <article class="boxitem bi3 boxes-styles clearfix odd" data-section="ContentBoxItem" data-id="3758345" data-idref="2303125" data-iorder="2">
+                    <h2 class="boxTitle cBoxTitle" data-cpart="Title">Na daljinu</h2>
+                		                    					   <img data-img src="/uploads/38221/images/121198923_125349909328203_5924294309279086064_n.jpg?r=4x3&w=400" alt="MIR U KUCI" data-id="3758345.3758387"/>
+				    			                                 <p class="boxHighlight cBoxHighlight" data-cpart="Highlight">Preko slike otključavamo vašu sreću, vraćamo voljenu osobu, spajamo rastavljene, skidamo crnu magiju, uroke, kletvu u najkraćem mogućem roku,</p>
+        	</article>
+        <article class="boxitem bi3 boxes-styles clearfix even" data-section="ContentBoxItem" data-id="3758347" data-idref="2303129" data-iorder="3">
+                    <h2 class="boxTitle cBoxTitle" data-cpart="Title">Ljubav</h2>
+                		                    					   <img data-img src="/uploads/38221/images/121165246_125364565993404_8582423054723080481_n.jpg?r=4x3&w=400" alt="HODZA MUSTAFA" data-id="3758347.3758385"/>
+				    			                                 <p class="boxHighlight cBoxHighlight" data-cpart="Highlight">Rešavamo sve vaše ljubavne probleme, spajamo rastavljene, usamljenim dušama otvaramo vrata ljubavi, vraćamo blagostanje, mir i novac u kuću, spašavamo brakove i porodice, štitimo od uroka, nesreća i nagaza.</p>
+        	</article>
+        <article class="boxitem bi3 boxes-styles clearfix odd" data-section="ContentBoxItem" data-id="3758349" data-idref="2303135" data-iorder="4">
+                    <h2 class="boxTitle cBoxTitle" data-cpart="Title">Amalije</h2>
+                		                    					   <img data-img src="/uploads/38221/images/121231196_125359112660616_6877329481983198149_n.jpg?r=4x3&w=400" alt="POSAO" data-id="3758349.3758389"/>
+				    			                                 <p class="boxHighlight cBoxHighlight" data-cpart="Highlight">Zaključavamo vaše drage osobe da ne pomisle na druge, pravimo zaštitne amajlije protiv zlih ljudi koje žele da Vam naude.Pravimo zastite za vase domove,posao i vama dragim osobama</p>
+        	</article>
+        <article class="boxitem bi3 boxes-styles clearfix even" data-section="ContentBoxItem" data-id="3758393" data-idref="2303181" data-iorder="5">
+                    <h2 class="boxTitle cBoxTitle" data-cpart="Title">HODZA MUSTAFA</h2>
+                		                    					   <img data-img src="/uploads/38221/images/324105795_850377156255988_8730977753749847481_n.jpg?r=4x3&w=400" alt="HODZA MUSTAFA" data-id="3758393.3758391"/>
+				    			                                 <p class="boxHighlight cBoxHighlight" data-cpart="Highlight">SA DUGOGODISNJEM ISKUSTVOM ZELIM DA POMOGNEM SVIMA&nbsp;</p>
+        	</article>
+        <article class="boxitem bi3 boxes-styles clearfix odd" data-section="ContentBoxItem" data-id="3758395" data-idref="2303187" data-iorder="6">
+                    <h2 class="boxTitle cBoxTitle" data-cpart="Title">Ovo je Naslov. Kliknite na tekst da ga promenite.</h2>
+                		                    					   <img data-img src="/uploads/complus/images/485.jpg?r=4x3&w=400" alt="Ovo je Naslov. Kliknite na tekst da ga promenite." data-id="3758395.3758335"/>
+				    			                                 <p class="boxHighlight cBoxHighlight" data-cpart="Highlight">Ovo je Paragraf, podnaslov ili kratki opis. Prikazuje se kao kratka informacija na stranicama gde postoje više različitih sadržaja. Kako biste dodali novi ili promenili ovaj tekst samo kliknite na tekst ili u meniju "Opcije" izaberite “Promeni tekst sa editorom”.</p>
+        	</article>
+    	</div>
+	       
+
+</div>
+		</section>
+    	<div class="cnt_share clearfix">
+		<div class="cnt_share_buttons clearfix">
+
+		
+				<div class="cnt_facebook">
+			<iframe src="//www.facebook.com/plugins/like.php?href=http://mustafahodzic.mojsajt.rs/home%2Fdocs%2Freference%2Fplugins%2Flike&amp;width=120&amp;height=46&amp;colorscheme=light&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;send=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:275px; height:20px;" allowTransparency="true"></iframe>
+		</div>
+
+		
+		
+	</div>
+	
+		
+	<div class="cnt_fb_comment clearfix">
+		<div class="fb-comments" data-href="http://mustafahodzic.mojsajt.rs/home" data-num-posts="10"></div>
+	</div>
+	</div>
+</div>
+<footer id="footer" class="clearfix">
+	
+<div class="social" data-section="Social">
+	<ul class="social_menu">
+					<li>
+	            <a href="https://www.facebook.com/me/" target="_blank">
+	                <img src="https://mustafahodzic.mojsajt.rs/themes/welness/images/socialIcons/facebook.png" alt="facebook" />
+	            </a>
+	        </li>
+	    	    			<li>
+	            <a href="http://twitter.com" target="_blank">
+	                <img src="https://mustafahodzic.mojsajt.rs/themes/welness/images/socialIcons/twitter.png" alt="twitter" />
+	            </a>
+	        </li>
+	    	    			<li>
+	            <a href="http://google.com" target="_blank">
+	                <img src="https://mustafahodzic.mojsajt.rs/themes/welness/images/socialIcons/google.png" alt="google" />
+	            </a>
+	        </li>
+	    	    			<li>
+	            <a href="http://youtube.com" target="_blank">
+	                <img src="https://mustafahodzic.mojsajt.rs/themes/welness/images/socialIcons/youtube.png" alt="youtube" />
+	            </a>
+	        </li>
+	    	    			<li>
+	            <a href="http://flicker.com" target="_blank">
+	                <img src="https://mustafahodzic.mojsajt.rs/themes/welness/images/socialIcons/flickr.png" alt="flickr" />
+	            </a>
+	        </li>
+	    	    			<li>
+	            <a href="http://linkedin.com" target="_blank">
+	                <img src="https://mustafahodzic.mojsajt.rs/themes/welness/images/socialIcons/linkedin.png" alt="linkedin" />
+	            </a>
+	        </li>
+	    	    			<li>
+	            <a href="http://vimeo.com" target="_blank">
+	                <img src="https://mustafahodzic.mojsajt.rs/themes/welness/images/socialIcons/vimeo.png" alt="vimeo" />
+	            </a>
+	        </li>
+	        </ul>
+</div></footer>
+
+<div class="powered">
+			Powered by <a href="http://www.webexpress.rs" target="_blank">WebExpress</a>
+	
+</div>
+</div>
+<!-- end div id main-wrapper -->
+<!-- E-commerc popup START -->
+<!-- E-commerc popup END -->
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+	_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+	_gaq.push(['_setAccount', 'UA-41029063-1']);
+	_gaq.push(['_setDomainName', 'mustafahodzic.mojsajt.rs']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+
+<script>
+		var shop = JSON.parse('null');
+</script>
+
+<div class="modal fade bs-example-modal-sm modalCaptcha" id="modalCaptcha" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+	<div class="modal-dialog modal-sm">
+		<div class="modal-content">
+			<div id="EmailCaptchaContainer">
+				<script type="text/javascript">
+					var RecaptchaOptions = {
+						theme : 'white'
+					};
+				</script>
+				<script type="text/javascript" src="https://www.google.com/recaptcha/api/challenge?k=6LejAfASAAAAAIkQR5oS6Ziu_OAAKrGxkukZtzSH"></script>
+
+	<noscript>
+  		<iframe src="https://www.google.com/recaptcha/api/noscript?k=6LejAfASAAAAAIkQR5oS6Ziu_OAAKrGxkukZtzSH" height="300" width="500" frameborder="0"></iframe><br/>
+  		<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+  		<input type="hidden" name="recaptcha_response_field" value="manual_challenge"/>
+	</noscript>				<script type="text/javascript">
+					$('#captcha-form script').remove();
+					if ($("#recaptcha_area").length == 0){
+						Recaptcha.create("6LejAfASAAAAAIkQR5oS6Ziu_OAAKrGxkukZtzSH", "EmailCaptchaContainer", {
+							theme: "white",
+							callback: Recaptcha.focus_response_field
+						});
+					}
+				</script>	
+			</div>
+			<button type="button" id="captchaBtn" class="captchaButton">pošalji</button>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>
